@@ -2,8 +2,6 @@
 
 网易云音乐的本机 LSPosed 模块。源码与构建说明：https://github.com/justsoso17/cmhook
 
-<img src="https://raw.githubusercontent.com/justsoso17/cmhook/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="icon">
-
 ## 功能
 
 - **消息防撤回** —— 聊天页右下角「撤回 N」胶囊，点开看被撤回的原文（可拖动）
